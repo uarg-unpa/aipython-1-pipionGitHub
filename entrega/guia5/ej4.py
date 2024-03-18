@@ -1,0 +1,1 @@
+frutitas=['cereza','frutilla','naranja','durazno','banana','sandia']

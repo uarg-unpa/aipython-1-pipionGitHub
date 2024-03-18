@@ -1,0 +1,5 @@
+print("Pasame tus datos")
+name=input("Nombre - ")
+lastn=input("Apellido - ")
+age=input("Edad - ")
+print("From the beginning, there was a basic contradiction in the strange case of",name,lastn,". The moment they stepped into the courtroom in Utah three years ago to answer a charge of kidnapping, those who saw them for the first time agreed with those who had known them for all of their ",age," years: There must have been some terrible mistake. Here was a young person who represented the best in America, not its worst. Here was this terrific looking person with light brown Some say that",name,lastn,"is the most prolific mass murderer in American history;",lastn,"claims they are the tragic victim of a tangling web of circumstances. hair and blue eyes, looking rather Kennedyesque, dressed in a beige turtleneck and dark blue blazer, a smile turning the corners of their lean allAmerican face, walking almost jauntily before the judge, but free of any extravagant motion that could lead one to think a swaggering — even dangerous — personality existed beneath that casual, cool exterior.",sep=' ')
