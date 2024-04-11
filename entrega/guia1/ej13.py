@@ -1,0 +1,13 @@
+p1=int(input("Ingrese precio: "))
+p2=int(input("Ingrese precio: "))
+p3=int(input("Ingrese precio: "))
+p4=int(input("Ingrese precio: "))
+p5=int(input("Ingrese precio: "))
+p6=int(input("Ingrese precio: "))
+p7=int(input("Ingrese precio: "))
+p8=int(input("Ingrese precio: "))
+p9=int(input("Ingrese precio: "))
+p10=int(input("Ingrese precio: "))
+suma=int(p1+p2+p3+p4+p5+p6+p7+p8+p9+p10)
+promedio=suma/10
+print("")
